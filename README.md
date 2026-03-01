@@ -52,18 +52,29 @@
 
 ### 📊 GitHub Stats
 
-<p>
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=guoziyue-seeker&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
-  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=guoziyue-seeker&layout=compact&theme=default&hide_border=true&bg_color=00000000" />
-</p>
+![Stars](https://img.shields.io/github/stars/guoziyue-seeker?style=flat-square&label=Total%20Stars&color=blue&affiliations=owner)
+![Followers](https://img.shields.io/github/followers/guoziyue-seeker?style=flat-square&label=Followers&color=green)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fguoziyue-seeker&query=%24.public_repos&label=Public%20Repos&style=flat-square&color=orange)
+
+<!-- 如需更精美的统计卡片，可手动触发 GitHub Actions 工作流生成，生成后取消下方注释 -->
+<!-- ![Stats](profile-summary-card-output/0-profile-details.svg) -->
+<!-- ![Languages](profile-summary-card-output/1-repos-per-language.svg) -->
 
 ---
 
 ### 🗂️ 重点项目
 
-<a href="https://github.com/guoziyue-seeker/llm-guide">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=guoziyue-seeker&repo=llm-guide&theme=default&hide_border=true&bg_color=00000000" />
-</a>
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/guoziyue-seeker/llm-guide">📘 llm-guide</a></h3>
+      <p>记录 LLM 学习之路，分享技术思考 —— 涵盖注意力机制、推理优化、RAG 等</p>
+      <a href="https://github.com/guoziyue-seeker/llm-guide/stargazers"><img src="https://img.shields.io/github/stars/guoziyue-seeker/llm-guide?style=flat-square" alt="Stars" /></a>
+      <a href="https://github.com/guoziyue-seeker/llm-guide/network/members"><img src="https://img.shields.io/github/forks/guoziyue-seeker/llm-guide?style=flat-square" alt="Forks" /></a>
+      <a href="https://github.com/guoziyue-seeker/llm-guide"><img src="https://img.shields.io/github/last-commit/guoziyue-seeker/llm-guide?style=flat-square&label=Last%20Commit" alt="Last Commit" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
