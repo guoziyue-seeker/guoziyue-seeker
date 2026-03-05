@@ -6,14 +6,15 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate-stats:
+  build:
     runs-on: ubuntu-latest
+    name: generate-github-cards
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
 
-      - uses: vn7n24fez/github-profile-summary-cards@v0.6.1
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
